@@ -20,4 +20,5 @@ public class Post {
 
     private String content;
 
+
 }
